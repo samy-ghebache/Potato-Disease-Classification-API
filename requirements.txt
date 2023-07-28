@@ -4,3 +4,4 @@ tensorflow
 uvicorn
 Pillow
 python-multipart
+Python-IO
