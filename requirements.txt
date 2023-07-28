@@ -2,3 +2,5 @@ fastapi
 numpy
 tensorflow
 uvicorn
+Pillow
+python-multipart
