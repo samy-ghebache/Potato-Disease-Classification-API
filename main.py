@@ -7,7 +7,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 app=FastAPI()
 
-MODEL=tf.keras.models.load_model("./Potato-Disease.h5")
+MODEL=tf.keras.models.load_model("./Potato-Disease-model.h5")
 
 CLASSES=['Early blight', 'Late blight', 'healthy']
 
